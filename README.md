@@ -1,26 +1,26 @@
-# 🚀 Bootcamp - Cloud DevOps Experience - Banco Carrefour
+## 🚀 Bootcamp - Cloud DevOps Experience - Banco Carrefour
 
 ### 📋 Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
 
 Desafio de projeto: Criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente através de script.
 
-:white_check_mark: Diretórios:
+#### :white_check_mark: Diretórios:
 
-publico, adm, ven e sec
+* publico, adm, ven e sec
 
-:white_check_mark: Grupos:
+#### :white_check_mark: Grupos:
 
-GRP_ADM, GRP_VEN e GRP_ADM
+* GRP_ADM, GRP_VEN e GRP_ADM
 
-:white_check_mark: Usuários:
+#### :white_check_mark: Usuários:
 
-carlos,maria e joao -> GRUPO: GRP_ADM
+* carlos,maria e joao -> GRUPO: GRP_ADM
 
-debora, sebastiana e roberto -> GRUPO GRP_VEN
+* debora, sebastiana e roberto -> GRUPO GRP_VEN
 
-josefina, amanda e rogerio -> GRUPO GRP_SEC
+* josefina, amanda e rogerio -> GRUPO GRP_SEC
 
-:white_check_mark: Definições:
+#### :white_check_mark: Definições:
 
 * Excluir diretórios, arquivos, grupos e usuários criados anteriormente;
 * Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;
